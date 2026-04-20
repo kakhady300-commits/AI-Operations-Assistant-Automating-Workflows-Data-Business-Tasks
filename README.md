@@ -1,7 +1,7 @@
 # 🤖 Multi-Purpose AI Business Assistant
 ## From Sales to Customer Care: One Intelligent Engine for Every Need
 
-![AI Chatbot Demo](Screenshot demo5.jpg)
+![AI Chatbot Demo](<Screenshot demo5.jpg>)
 
 ---
 
@@ -49,7 +49,7 @@ La vidéo présente **une application spécifique** : un Assistant Personnel IA 
 **Applications Infinies :**
 La même architecture peut être facilement adaptée pour :
 * **Customer Success :** Support automatisé 24h/24 et gestion des FAQ.
-* **AI Automation Specialist :** Capture de prospects et synchronisation des données via Manuel.com/Zapier.
+* **AI Automation Specialist :** Capture de prospects et synchronisation des données via Make.com/Zapier.
 * **HR & Business Ops :** Gestion des demandes des candidats ou de la documentation interne.
 
 👉 **Regardez le fichier `Demo video chatbot.mp4` per voir l'IA en action !**
